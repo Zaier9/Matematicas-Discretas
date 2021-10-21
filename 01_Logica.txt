@@ -1,0 +1,16 @@
+¿Qué es la lógica?
+
+Es todo lo que tu cerebro piensa con base a lo que para ti es coherente, está estructurado y tiene sentido.
+En este curso nos vamos a centrar en la lógica proposicional, que como su nombre lo indica se basa en proposiciones o afirmaciones.
+
+¿Qué es una proposición o afirmación?
+
+No es más que una sentencia, oración o enunciado al cual le puedes dar algún de verdadero o falso. Ni las pregunta, las órdenes y los deseos contaran como proposiciones.
+
+En la lógica proposicional, nos interesa saber la relación que hay entre estas.
+
+Existen dos tipos de proposiciones, las simples y las compuestas:
+
+	* Las proposiciones simples tienen un valor de verdadero o falso, son representadas por la letra p, q, r, s, t.
+	* Las proposiciones compuestas como su nombre lo indica están compuestas por proposiciones simples. Estas proposiciones necesitan conectores lógicos para unir las diferentes proposiciones simples que la integren.
+Existen múltiples conectores lógicos, entre ellos se encuentran la conjunción, disyunción, implicación, equivalencia y negación.
